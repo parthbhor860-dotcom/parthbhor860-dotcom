@@ -22,6 +22,6 @@ My name is parth bhor I am currently studying in diploma third year 5th sem I am
 ![](https://github-contributor-stats.vercel.app/api?username=parthbhor860-dotcom&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=parthbhor860-dotcom&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=parthbhor860-dotcom&icon=0&color=C94C2E)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
